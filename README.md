@@ -1,30 +1,54 @@
-About Me 👨‍💻
+# Remotion video
 
-I’m Arteom Poleacov, a fintech professional passionate about blockchain technology and decentralized finance (DeFi). 
-With an MSc in FinTech, I specialize in smart contract development, blockchain security, governance, risk, and compliance (GRC). 
-My mission is to contribute to innovative Web3 solutions that redefine transparency, efficiency, and security in financial systems.
+<p align="center">
+  <a href="https://github.com/remotion-dev/logo">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-dark.apng">
+      <img alt="Animated Remotion Logo" src="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-light.gif">
+    </picture>
+  </a>
+</p>
 
-Skills and Expertise 🛠️
+Welcome to your Remotion project!
 
-Programming Skills: Proficient in Solidity, Python, JavaScript, and SQL for blockchain development, financial data analysis, and automation.
-Governance and Compliance: Familiar with ISO27001, SOC2, and PCI-DSS frameworks for ensuring robust GRC practices.
-DeFi Applications: Hands-on experience with decentralized exchanges (DEXs), token swaps, and liquidity management.
-Programming and Analysis: Advanced skills in Python for financial data analysis and blockchain integrations.
+## Commands
 
-Highlighted Projects 🚀
+**Install Dependencies**
 
-Decentralized Exchange Development (DEX):
-Built a secure and efficient DEX on Ethereum, focusing on compliance, security, and user-centric design.
-Integrated features like re-entrancy guards and gas optimization to enhance performance and scalability.
+```console
+npm i
+```
 
-Cryptocurrency Market Analysis Platform:
+**Start Preview**
 
-Designed a predictive analysis platform leveraging blockchain data sources and automated trading algorithms.
-Showcased DeFi’s potential in financial market forecasting and decision-making.
+```console
+npm run dev
+```
 
-What Drives Me 🌟
+**Render video**
 
-I am passionate about integrating blockchain with compliance frameworks to enhance the trustworthiness and usability of decentralized ecosystems. 
-A quick learner and proactive collaborator, I am always eager to expand my knowledge and contribute to Web3 innovation.
+```console
+npx remotion render
+```
 
-Let’s connect and build the future of decentralized finance together! 🌐
+**Upgrade Remotion**
+
+```console
+npx remotion upgrade
+```
+
+## Docs
+
+Get started with Remotion by reading the [fundamentals page](https://www.remotion.dev/docs/the-fundamentals).
+
+## Help
+
+We provide help on our [Discord server](https://discord.gg/6VzzNDwUwV).
+
+## Issues
+
+Found an issue with Remotion? [File an issue here](https://github.com/remotion-dev/remotion/issues/new).
+
+## License
+
+Note that for some entities a company license is needed. [Read the terms here](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md).
